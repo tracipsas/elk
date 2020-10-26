@@ -38,7 +38,7 @@ stable"
 ## Installation
 
 ```
-$ git clone `url du git`
+$ git clone https://github.com/tracipsas/elk
 $ cd elk
 $ docker-compose up --build
 ```
